@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/karan-passi/static/js/main.28cf9457.chunk.js",
+    "main.js.map": "/karan-passi/static/js/main.28cf9457.chunk.js.map",
+    "runtime-main.js": "/karan-passi/static/js/runtime-main.d9145d28.js",
+    "runtime-main.js.map": "/karan-passi/static/js/runtime-main.d9145d28.js.map",
+    "static/js/2.79f8154f.chunk.js": "/karan-passi/static/js/2.79f8154f.chunk.js",
+    "static/js/2.79f8154f.chunk.js.map": "/karan-passi/static/js/2.79f8154f.chunk.js.map",
+    "index.html": "/karan-passi/index.html",
+    "precache-manifest.31fbc5ee40f52b607cf45fb8984ca0e9.js": "/karan-passi/precache-manifest.31fbc5ee40f52b607cf45fb8984ca0e9.js",
+    "service-worker.js": "/karan-passi/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9145d28.js",
+    "static/js/2.79f8154f.chunk.js",
+    "static/js/main.28cf9457.chunk.js"
+  ]
+}
